@@ -53,4 +53,4 @@ Terminal (CLI)
 
 ## 👤 Autor
 
-Antonio Gustavo Braga de Matos (agbram)
+agbram
