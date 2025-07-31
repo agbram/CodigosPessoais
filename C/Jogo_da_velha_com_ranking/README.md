@@ -24,8 +24,7 @@ Este é um jogo de **Super Trunfo** jogado diretamente no terminal. Cada jogador
 - [ ] Atributos comparáveis entre cartas
 - [ ] Sistema de pontuação
 - [ ] Ranking persistente entre sessões
-- [ ] Interface colorida no terminal (futuramente)
-- [ ] Modo multiplayer local (futuramente)
+- [ ] Modo multiplayer local (apenas ideia)
 
 ## ⚙️ Pré-requisitos
 
@@ -36,6 +35,8 @@ Este é um jogo de **Super Trunfo** jogado diretamente no terminal. Cada jogador
 ## ▶️ Como Jogar
 
 - Execute o jogo.
+
+- Cadastre-se (aperte o número "2").
 
 - Escolha o modo de jogo.
 
